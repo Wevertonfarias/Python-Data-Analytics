@@ -6,6 +6,6 @@
 
 ### Reposidorio do curso
 
-Bootcamp oferecido pela Digital Innovation One abordando conceitos de funções Python e os seus principais comandos, SQL e noSQL e a integração desee conhecimento ao Power BI.
+Bootcamp oferecido pela Digital Innovation One abordando conceitos de funções Python e os seus principais comandos, SQL e noSQL e a integração desse conhecimento ao Power BI.
 
 Dentro deste repositório serão encontrados os Desafios de Codigo e de Projetos realizados dentro do Bootcamp Python Data Analytics.
